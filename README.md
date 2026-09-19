@@ -22,3 +22,7 @@ For the news experiment, set `NEWS_API_KEY` in your environment before starting 
 ## Author
 
 Harshil Prashant Shah · [Portfolio](https://harshil-prashant-shah.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/harshilpshah/)
+
+## Research reference
+
+[Chapter on Taylor & Francis](https://www.taylorfrancis.com/chapters/edit/10.1201/9781003773504-127/stock-market-prediction-using-news-api-deep-learning-algorithms-harshil-shah-dhvani-shah-dharmil-parekh-janhavi-patel-richa-sharma) — project reference supplied by the author. Publisher or Drive access conditions may apply.

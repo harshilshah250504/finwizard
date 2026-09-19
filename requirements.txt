@@ -1,0 +1,11 @@
+numpy
+pandas
+yfinance
+requests
+tensorflow
+scikit-learn
+vaderSentiment
+plotly
+openpyxl
+prettytable
+jupyterlab

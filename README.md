@@ -74,3 +74,7 @@ The uploaded stock archive contains reference papers, not a fixed market-data sn
 ## Data and reuse
 
 Local datasets, credentials, and third-party research PDFs are not included. No blanket license is granted over third-party material. Refer to the original sources for their terms before redistributing data or publications.
+
+## Execution check
+
+See [validation notes](VALIDATION.md) for the model smoke check and remaining evaluation limitations.
